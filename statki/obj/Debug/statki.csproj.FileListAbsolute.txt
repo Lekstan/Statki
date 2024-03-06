@@ -1,0 +1,7 @@
+C:\Users\Damia\OneDrive\Pulpit\Nowy folder\statki\statki\bin\Debug\statki.exe.config
+C:\Users\Damia\OneDrive\Pulpit\Nowy folder\statki\statki\bin\Debug\statki.exe
+C:\Users\Damia\OneDrive\Pulpit\Nowy folder\statki\statki\bin\Debug\statki.pdb
+C:\Users\Damia\OneDrive\Pulpit\Nowy folder\statki\statki\obj\Debug\statki.csproj.AssemblyReference.cache
+C:\Users\Damia\OneDrive\Pulpit\Nowy folder\statki\statki\obj\Debug\statki.csproj.CoreCompileInputs.cache
+C:\Users\Damia\OneDrive\Pulpit\Nowy folder\statki\statki\obj\Debug\statki.exe
+C:\Users\Damia\OneDrive\Pulpit\Nowy folder\statki\statki\obj\Debug\statki.pdb
